@@ -13,6 +13,7 @@ export async function generateConfigurations(
     name: '',
     symbol: '',
     description: '',
+    external_url: '',
     creators: [],
     dnp: {},
     premadeCustoms: [],
